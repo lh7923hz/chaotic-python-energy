@@ -38,6 +38,7 @@ Thumbs.db
 TUTORIAL.txt
 QUICK_REFERENCE.txt
 CODE_EXAMPLES.txt
+PIRATE_GAMES_TUTORIAL.txt
 
 # Root-level development files (game is in coin-quest folder)
 /game.py

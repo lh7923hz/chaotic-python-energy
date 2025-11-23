@@ -35,10 +35,12 @@ python game.py
 
 ## 📚 Learning Resources
 
-- **`PIRATE_GAMES_TUTORIAL.txt`** - Complete guide to building 2D & 3D pirate games
-- **`TUTORIAL.txt`** - Comprehensive platformer game tutorial  
-- **`QUICK_REFERENCE.txt`** - Pygame cheat sheet
-- **`CODE_EXAMPLES.txt`** - Copy-paste examples for common features
+Each game folder contains detailed README files with:
+- Setup instructions
+- Controls and gameplay tips
+- Code structure explanations
+- Customization ideas
+- Technical concepts covered
 
 ## 🎮 Game Concepts Covered
 
