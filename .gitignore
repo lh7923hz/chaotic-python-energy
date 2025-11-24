@@ -44,3 +44,8 @@ PIRATE_GAMES_TUTORIAL.txt
 /game.py
 /requirements.txt
 
+# API Keys and Configuration
+Gradio/config.py
+*.env
+.env
+
